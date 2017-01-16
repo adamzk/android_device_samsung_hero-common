@@ -47,10 +47,10 @@ TARGET_INIT_VENDOR_LIB := libinit_sec
 TARGET_UNIFIED_DEVICE := true
 
 # Packaging
-BLOCK_BASED_OTA := false
+#BLOCK_BASED_OTA := false
 
 # Pre-Optimize DEX
-WITH_DEXPREOPT := true
+#WITH_DEXPREOPT := true
 
 # Renderscript
 BOARD_OVERRIDE_RS_CPU_VARIANT_32 := cortex-a53.a57
