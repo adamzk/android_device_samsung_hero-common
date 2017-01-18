@@ -23,10 +23,10 @@ app/mcRegistry/ffffffff00000000000000000000000e.tlbin
 app/mcRegistry/ffffffffd0000000000000000000000e.tlbin
 app/mcRegistry/ffffffffd00000000000000000000016.tlbin
 bin/mcDriverDaemon
-lib/libMcRegistry.so
-lib64/libMcRegistry.so
-lib/libMcClient.so
-lib64/libMcClient.so
+vendor/lib/libMcRegistry.so
+vendor/lib64/libMcRegistry.so
+vendor/lib/libMcClient.so
+vendor/lib64/libMcClient.so
 
 # Radio
 bin/rild
