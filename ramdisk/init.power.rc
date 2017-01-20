@@ -1,0 +1,6 @@
+on boot
+    # LITTLE
+    write /sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq 1170000
+
+    # big
+    write /sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq 1456000
